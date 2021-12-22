@@ -9,7 +9,7 @@ InlinePattern=\/
 InlineSetting2=Color | #Accent#
 InlinePattern2=GPU (\/{[GPUTextActual:0]}).*
 DynamicVariables=1
-MEterStyle=Text
+MeterStyle=Text
 
 [GPUtopitem]
 Meter=String
